@@ -22,6 +22,5 @@ followed by
 
 git rebase origin/master
 
-they will take all the changes from remote to local master
-
+they will take all the changes from remote to local
 
