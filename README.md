@@ -1,7 +1,7 @@
 ### SaralSpeech
 Contains various exercise problems on speech
 
-### some useful git commands 
+### Some useful git commands 
 git status 
 
 git branch
