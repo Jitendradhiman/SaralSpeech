@@ -1,4 +1,7 @@
-# deepGriffinlim
+# SaralSpeech
+Contains various excersise problems on speech
+
+# some useful git commands 
 git status 
 
 git branch
