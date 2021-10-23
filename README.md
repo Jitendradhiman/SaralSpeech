@@ -1,5 +1,5 @@
 ### SaralSpeech
-Contains various exercise problems on speech
+Contains various exercise problems on speech. This repository will be updated as and when new exercises are avaiable. 
 
 ### Some useful git commands 
 git status 
