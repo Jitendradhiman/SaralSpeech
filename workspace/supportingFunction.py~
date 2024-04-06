@@ -37,6 +37,3 @@ def wavread(filename):
 	x = np.float32(x)/norm_fact[x.dtype.name]
 	return fs, x
 
-
-
------_-     
