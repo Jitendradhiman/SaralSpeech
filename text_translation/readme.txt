@@ -1,0 +1,2 @@
+- Text translation using transformer network. 
+- Allows to choose the different attention types. 
